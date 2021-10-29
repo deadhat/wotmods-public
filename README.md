@@ -15,6 +15,10 @@ Public modifications used for my modpack.
 * Invites Manager - Lets you block or allow all kind of battle invites.
 * Marks in Hangar - Shows the marks of Excellence Values in the hangar.
 * Marks in Techtree - Shows what tanks you marked in Techtree.
-
-
-
+* PlayersPanelHP - Shows the ally and enemy HP in PlayersPanel on keypress or permanantly.
+* SafeShot - Prevents shots in wracks.
+* SixthSense - Used in ProMod. You can use this to show your own SixthSense. Animations are supported.
+* SmartTweaker - Little collections of different tweaks.
+* Spot Alert - Informs the team or platoon when spotted and remembers you when you should be unspotted.
+* Spotted Status - Shows the state spotted and unspotted, neverspotted for enemys.
+* Tank Panel - Shows enemy tank information on mousehover.
