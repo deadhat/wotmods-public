@@ -1,6 +1,7 @@
-**PUBLIC MODS CREATED FOR MY MODPACK AND OTHERS**
+# Mods by OldSkool
+Public modifications used for my modpack.
 
-### Auto Ignore SPG
-#### Nobody likes SPG players. Let the mod put them on your ignorelist when they damage you.
+### Mod descriptions:
+* Auto Ignore - Arty players are piece of shit. This mod will blacklist them directly when they hit you.
 
 
