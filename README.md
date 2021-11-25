@@ -19,6 +19,7 @@ Public modifications used for my modpack.
 * SafeShot - Prevents shots in wracks.
 * SixthSense - Used in ProMod. You can use this to show your own SixthSense. Animations are supported.
 * SmartTweaker - Little collections of different tweaks.
+* SPGLog - Log the damage and stun taken from arty over an unlimited time.
 * Spot Alert - Informs the team or platoon when spotted and remembers you when you should be unspotted.
 * Spotted Status - Shows the state spotted and unspotted, neverspotted for enemys.
 * Tank Panel - Shows enemy tank information on mousehover.
