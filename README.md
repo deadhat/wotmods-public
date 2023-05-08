@@ -1,5 +1,5 @@
 # Mods by OldSkool
-1.20.0.1 - Public modifications used for my modpack.
+v.1.20.1.0 #140 - Public modifications used for my modpack.
 
 ### Mod descriptions:
 * Auto Ignore - Arty players are a piece of shit. This mod will blacklist them directly when they hit you.
