@@ -1,5 +1,5 @@
 # Mods by OldSkool
-v.1.20.1.0 #140 - Public modifications used for my modpack.
+v.1.22.0.0 - Public modifications used for my modpack.
 
 ### Mod descriptions:
 * Auto Ignore - Arty players are a piece of shit. This mod will blacklist them directly when they hit you.
@@ -20,6 +20,7 @@ v.1.20.1.0 #140 - Public modifications used for my modpack.
 * SixthSense - Used in ProMod. You can use this to show your own SixthSense. Animations are supported.
 * SmartTweaker - Little collections of different tweaks.
 * SPGLog - Log the damage and stun taken from arty over an unlimited time.
+* Streamerprotection - Prevent streamsniping if you hide the server data.
 * Spot Alert - Informs the team or platoon when spotted and remembers you when you should be unspotted.
 * Spotted Status - Shows the state spotted and unspotted, neverspotted for enemys.
 * Tank Panel - Shows enemy tank information on mousehover.
