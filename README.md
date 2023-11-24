@@ -24,3 +24,4 @@ v.1.22.0.0 - Public modifications used for my modpack.
 * Spot Alert - Informs the team or platoon when spotted and remembers you when you should be unspotted.
 * Spotted Status - Shows the state spotted and unspotted, neverspotted for enemys.
 * Tank Panel - Shows enemy tank information on mousehover.
+* TotalSpotted - Shows a small panel which contains the ammount of unspotted vehicles.
