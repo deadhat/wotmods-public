@@ -1,5 +1,5 @@
 # Mods by OldSkool
-v.1.26.0.0 - Public modifications used for my modpack.
+v.1.26.1.1 - Public modifications used for my modpack.
 
 ### Mod descriptions:
 * Auto Ignore - Arty players are a piece of shit. This mod will blacklist them directly when they hit you.
@@ -11,7 +11,6 @@ v.1.26.0.0 - Public modifications used for my modpack.
 * Friends Marker - Mark your friends during the battle in case you meet them.
 * Invites Manager - Lets you block or allow all kind of battle invites.
 * Marks in Hangar - Shows the marks of Excellence Values in the hangar.
-* Marks in Techtree - Shows what tanks you marked in Techtree.
 * PlayersPanelHP - Shows the ally and enemy HP in PlayersPanel on keypress or permanantly.
 * SafeShot - Prevents shots in wracks.
 * SixthSense - Used in ProMod. You can use this to show your own SixthSense. Animations are supported.
