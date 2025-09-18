@@ -1,5 +1,7 @@
 # Mods by OldSkool
 v.2.0.0.0 - Public modifications used for my modpack.
+
+### WOT 2.0
 Marked Mods are out of function or dont work how they should!
 
 ### Mod descriptions:
