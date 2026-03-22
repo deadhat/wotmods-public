@@ -1,5 +1,5 @@
 # Mods by OldSkool
-v.2.2.0.0 - Public modifications used for my modpack.
+v.2.2.0.1 - Public modifications used for my modpack.
 
 ### WOT 2.2
 All mods are working.
