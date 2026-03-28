@@ -1,11 +1,12 @@
 # Mods by OldSkool
-v.2.2.0.1 - Public modifications used for my modpack.
+v.2.2.0.2 - Public modifications used for my modpack.
 
 ### WOT 2.2
 All mods are working.
 
 ### Mod descriptions:
 * Auto Ignore - Arty players are a piece of shit. This mod will blacklist them directly when they hit you.
+* Battle Button - Allows you to change the battle button.
 * Battle Efficiency - Shows a simple WN8 calculator next to your Players Panel.
 * Debug Panel - Decent grey debug panel with improved lag detector and clock.
 * Friends Marker - Mark your friends during the battle in case you meet them.
@@ -19,3 +20,4 @@ All mods are working.
 * Spot Alert - Informs the team or platoon when spotted and remembers you when you should be unspotted.
 * Spotted Status - Shows the state spotted and unspotted, neverspotted for enemys.
 * Tank Panel - Shows enemy tank information on mousehover.
+* TechTree Stats - Shows the gunmark progress and mastery badge (if archieved) in techtree.
