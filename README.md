@@ -4,7 +4,7 @@
 
 **Quality of life, battle info and hangar mods for World of Tanks**
 
-![World of Tanks](https://img.shields.io/badge/World%20of%20Tanks-2.4.1.1-c8102e?style=for-the-badge)
+![World of Tanks](https://img.shields.io/badge/World%20of%20Tanks-2.4.2.0-c8102e?style=for-the-badge)
 ![Mods](https://img.shields.io/badge/Mods-25-2d2d2d?style=for-the-badge)
 ![Settings](https://img.shields.io/badge/Settings-Aslain%20Mod%20Menu-f5c870?style=for-the-badge)
 
@@ -22,7 +22,7 @@ This repository contains the public mods developed by **OldSkool**, the same one
 
 | | |
 |---|---|
-| **Game version** | World of Tanks **2.4.1.1** |
+| **Game version** | World of Tanks **2.4.2.0** |
 | **Settings menu** | Aslain's Mod Menu (included where needed) |
 | **UI framework** | OpenWG Gameface (included where needed) |
 
@@ -51,15 +51,15 @@ This repository contains the public mods developed by **OldSkool**, the same one
 | [Advanced Spotted Messenger](#advanced-spotted-messenger) | 2.0.0 | Battle | [zip](spot_alert_2.0.0.zip) |
 | [Damage Stickers](#damage-stickers) | 1.0.3 | Battle | [zip](damage_stickers_1.0.3.zip) |
 | [Camo Remover](#camo-remover) | 1.0.0 | Battle | [zip](camo_remover_1.0.0.zip) |
-| [Destroyed Vehicles Marker](#destroyed-vehicles-marker) | 1.0.5 | Battle | [zip](destroyed_position_1.0.5.zip) |
-| [Killshot Sound](#killshot-sound) | 1.0.6 | Battle | [zip](kill_shot_sound_1.0.6.zip) |
+| [Destroyed Vehicles Marker](#destroyed-vehicles-marker) | 1.0.6 | Battle | [zip](destroyed_position_1.0.6.zip) |
+| [Killshot Sound](#killshot-sound) | 1.0.7 | Battle | [zip](kill_shot_sound_1.0.7.zip) |
 | [Enemy Spotted Status](#enemy-spotted-status) | 1.4.2 | Players panel | [zip](spotted_status_1.4.2.zip) |
 | [Players Panel HP](#players-panel-hp) | 1.4.0 | Players panel | [zip](players_panel_hp_1.4.0.zip) |
 | [Ingame Friends Marker](#ingame-friends-marker) | 1.1.6 | Players panel | [zip](friends_marker_1.1.6.zip) |
-| [Advanced TechTree](#advanced-techtree) | 0.1.6 | Hangar | [zip](advanced_techtree_0.1.6.zip) |
-| [TechTree Gunmark and Mastery Badge Display](#techtree-gunmark-and-mastery-badge-display) | 1.1.0 | Hangar | [zip](techtree_stats_1.1.0.zip) |
-| [Mastery Requirements in Hangar](#mastery-requirements-in-hangar) | 1.1.2 | Hangar | [zip](masterys_in_hangar_1.1.2.zip) |
-| [X5 Counter](#x5-counter) | 1.1.0 | Hangar | [zip](x5counter_1.1.0.zip) |
+| [Advanced TechTree](#advanced-techtree) | 0.1.7 | Hangar | [zip](advanced_techtree_0.1.7.zip) |
+| [TechTree Gunmark and Mastery Badge Display](#techtree-gunmark-and-mastery-badge-display) | 1.1.1 | Hangar | [zip](techtree_stats_1.1.1.zip) |
+| [Mastery Requirements in Hangar](#mastery-requirements-in-hangar) | 1.3.1 | Hangar | [zip](masterys_in_hangar_1.3.1.zip) |
+| [X5 Counter](#x5-counter) | 1.1.1 | Hangar | [zip](x5counter_1.1.1.zip) |
 | [Battle Button](#battle-button) | 1.1.3 | Hangar | [zip](battle_button_1.1.3.zip) |
 | [Smart Tweaker](#smart-tweaker) | 1.3.0 | Hangar and battle | [zip](smartTweaker_1.3.0.zip) |
 | [Auto Ignore](#auto-ignore) | 1.1.2 | Social | [zip](auto_ignore_1.1.2.zip) |
